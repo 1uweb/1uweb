@@ -1,7 +1,8 @@
-# Willkommen auf meinem Github Profile
-Auf meinem Github Profil siehst du nur meine Öffentlichen Projekte und keine Privaten. Aufgrund des Datenschutzes kann ich leider Private Projekte hier öffentlichent stellen.
+# Hallo,
+ich bin Uwe und mache gerade eine Ausbildung zum Fachinformatiker für Anwendungsentwicklung.
 
-# Social-Media
-- Twitter: https://twitter.com/u_barthel
-- Gitlab: https://gitlab.com/uwebarthel
-- Behance: https://www.behance.net/uwe-barthel
+# Hier finden sich mich Online:
+- [Twitter](https://twitter.com/u_barthel)
+- [Gitlab](https://gitlab.com/uwebarthel)
+- [Linkedin](https://www.linkedin.com/in/uwe-barthel-46374b1bb/)
+- [Behance](https://www.behance.net/uwe-barthel)
