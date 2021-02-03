@@ -1,4 +1,4 @@
-<h1> Hello, <h1>
+<h1> Hello, </h1>
 <p>I'm Uwe and I'm currently training to become an IT specialist for application development.</p>
 
 <h1> My Hometown, </h1>
