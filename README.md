@@ -17,4 +17,6 @@
 - <a href="https://nuxtjs.org"><img width="64" src="https://images.uwe-barthel.net/github/1uweb/nuxt-emoji-white.png" alt="Nuxt.js" /></a>
 - <a href="https://tailwindcss.com/"><img width="64" src="https://images.uwe-barthel.net/github/1uweb/tailwindcss-mark.cb8046c163f77190406dfbf4dec89848.svg" alt="Tailwindcss"/></a>
 
+<h1> My Github Stats </h1>
+
 ![1uweb's GitHub stats](https://github-readme-stats.vercel.app/api?username=1uweb&title_color=cc3547&icon_color=cc3547&bg_color=141a26&text_color=f2f9ff&show_icons=true&hide_border=true)
