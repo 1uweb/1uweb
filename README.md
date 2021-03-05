@@ -2,7 +2,7 @@
 <p>I'm Uwe and I'm currently training to become an IT specialist for application development.</p>
 
 <h1> My Hometown, </h1>
-<img alt="Stadthaus Augustusburg" src="https://images.uwe-barthel.net/github/1uweb/jk8Ehad657VFTdqw.jpg" />
+<img alt="Stadthaus Augustusburg" src="https://aurora.cdn.giganticplay.de/cms/ubarthel/assets/images/s6ydbxjMmmeHZmEbHU3ZtzNRZk3WDDZD_github-hero-1uweb.jpg" />
 
 <h1> My Socialmedia: </h1>
 <ul>
